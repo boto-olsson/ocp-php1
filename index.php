@@ -18,7 +18,7 @@
   date_default_timezone_set('Europe/Stockholm');
   echo "The date & time is " . date("Y/m/d h:i:sa");
   echo "\n<br>" ;
-  echo "Pod HOSTNAME: "echo .$_SERVER['SERVER_NAME'];
+  echo "Pod HOSTNAME: ".$_SERVER['SERVER_NAME'];
   echo "\n<br>" ;
   echo "PHP Version: " . phpversion(); ?>
  </h1>
