@@ -17,7 +17,7 @@
   echo "\n<br>" ;
   date_default_timezone_set('Europe/Stockholm');
   $date = date('Y/m/d H:i:s' time());
-  echo "\nThe Server time is: " .$date ; ?>
+  echo "\nThe Server time is: " .$date ;
   echo "\n<br>" ;
   echo "Pod HOSTNAME: "echo .$_SERVER['SERVER_NAME'];
   echo "\n<br>" ;
