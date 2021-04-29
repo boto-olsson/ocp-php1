@@ -7,7 +7,7 @@
  <meta http-equiv="Expires" content="0" />
  </head>
  <html>
- <body style="background-color: pink">
+ <body style="background-color: white">
  <p>
  <h1>
  Version 1
