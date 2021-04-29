@@ -7,10 +7,10 @@
  <meta http-equiv="Expires" content="0" />
  </head>
  <html>
- <body style="background-color: white">
+ <body style="background-color: pink">
  <p>
  <h1>
- Version 1
+ Version 2
  <br>
  <?php
   echo "App Version: 21.0. Pod IP is: ".$_SERVER['SERVER_ADDR'] ;
